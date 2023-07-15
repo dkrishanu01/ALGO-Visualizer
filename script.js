@@ -507,7 +507,7 @@ function dijkstra() {
 }
 
 function AStar() {
-	var pathFound = false;
+	var pathFound = false;	
 	var myHeap = new minHeap();
 	var prev = createPrev();
 	var distances = createDistances();
