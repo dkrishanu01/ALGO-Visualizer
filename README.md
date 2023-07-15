@@ -1,5 +1,5 @@
 # SHORTEST-PATH-VISUALIZER
-Implemented A*, Dijkstra, BFS, Greedy BFS Algorithms using HTML5, CSS, Javascript
+Implemented Dijkstra, BFS Algorithms using HTML5, CSS, Javascript
 
 <p align="center">
 
